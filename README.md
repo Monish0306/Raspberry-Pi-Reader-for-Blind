@@ -8,7 +8,7 @@
 Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-green)]()
 [![OCR](https://img.shields.io/badge/OCR-Tesseract-orange)]()
 [![License](https://img.shields.io/badge/License-To%20Be%20Specified-lightgrey)]()
-![Uploading image.png…]()
+
 
 ## 1. Project Overview
 
